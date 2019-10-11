@@ -1,3 +1,7 @@
 Hello
 let's change the world
+<<<<<<< HEAD
 haahaaa
+=======
+hahaaa
+>>>>>>> parent of 502b627... commit to repo
