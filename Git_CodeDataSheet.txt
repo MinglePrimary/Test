@@ -22,7 +22,7 @@ git log 		// xem lich su cap nhat
 // b3: add remote 
 // b4: push
 // b5: ktra repo tren Github
-git remote add <TEN LOCAL PROJECT> <LINK REPO TREN GITHUB>
+git remote add <TEN LOCAL PROJECT> <LINK REPO TREN GITHUB> // xac nhan anh xa cua local project 									// voi remote project
 git push
 git push --set-upstream <TEN LOCAL PROJECT> master
 
